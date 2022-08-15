@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phuonghtkn
+- 👋 Hi, I’m Hoang Tang Kim Nam Phuong
 - 👀 I’m interested in Coding and Researching
 - 🌱 I’m currently learning Data engineer
 - 📫 How to reach me: phuong.dut.es@gmail.com, namphuonghoang.es@gmail.com
