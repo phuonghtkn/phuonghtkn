@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hoang Tang Kim Nam Phuong
 - 👀 I’m interested in Coding and Researching
 - 🌱 I’m currently learning Data engineer
-- 📫 How to reach me: phuong.dut.es@gmail.com, namphuonghoang.es@gmail.com
+- 📫 How to reach me: phuonghtkn@gmail.com, namphuonghoang.es@gmail.com
 
 <!---
 phuonghtkn/phuonghtkn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
